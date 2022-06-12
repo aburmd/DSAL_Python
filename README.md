@@ -1,1 +1,1 @@
-This repository is going to store all data structures and alogorithms in python language. Upon each implementation, we can document the time and space complexity for most of operations like add, remove, select, traverse. 
+This repository will house all Python-based data structures and algorithms. For most operations such as add, remove, select, and traverse, we can document the time and space complexity for each implementation. 
